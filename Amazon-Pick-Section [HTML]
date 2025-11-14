@@ -1,0 +1,18 @@
+<div class="picks-section">
+        <h2 class="header">Top picks for India</h2>
+        <img src="PICK 1.jpg" alt="" class="pick-image">
+        <img src="PICK 2.jpg" alt="" class="pick-image">
+        <img src="PICK 3.jpg" alt="" class="pick-image">
+        <img src="PICK 4.jpg" alt="" class="pick-image">
+        <img src="PICK 5.jpg" alt="" class="pick-image">
+        <img src="PICK 6.jpg" alt="" class="pick-image">
+    </div>
+    <div class="picks-section">
+        <h2 class="header">Best Sellers in Sports & Outdoors</h2>
+        <img src="PICK 7.jpg" alt="" class="pick-image">
+        <img src="PICK 8.jpg" alt="" class="pick-image">
+        <img src="PICK 9.jpg" alt="" class="pick-image">
+        <img src="PICK 10.jpg" alt="" class="pick-image">
+        <img src="PICK 11.jpg" alt="" class="pick-image">
+        <img src="PICK 12.jpg" alt="" class="pick-image">
+    </div>
