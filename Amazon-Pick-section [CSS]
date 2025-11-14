@@ -1,0 +1,19 @@
+.picks-section {
+    height: 280px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: #e2e7e6;
+}
+
+.header {
+    font-size: 21px;
+    color: #0f1111;
+    margin-left: 25px;
+    margin-top: 35px;
+}
+
+.pick-image {
+    height: 240px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
